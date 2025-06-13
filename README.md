@@ -61,7 +61,7 @@ This project goes over how to disable or enable a computer or user account using
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>EX: I am finding a computer, so I set the Find box to: Computers. Click: The box with “Computers” (next to: Left: In AND Right: Browse - at the top) & Select: Entire Directory – So your search will look throughout the entire directory.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>EX: I am finding a computer, so I set the Find box (top-left) to: Computers. Click: I will set the In box (top-middle) to: Entire Directory – So your search will look throughout the entire directory.</b></span>  
 <br/>
 
 <table>
@@ -73,8 +73,8 @@ This project goes over how to disable or enable a computer or user account using
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/ee459uM.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/NZeemzK.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/wm0q5jF.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/D8pSI2y.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
