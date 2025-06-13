@@ -60,3 +60,129 @@ This project goes over how to disable or enable a computer or user account using
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>EX: I am finding a computer, so I set the Find box to: Computers. Click: The box with “Computers” (next to: Left: In AND Right: Browse - at the top) & Select: Entire Directory – So your search will look throughout the entire directory.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/wZd6jvL.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/hIPO8yB.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ee459uM.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/NZeemzK.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The User’s  (OR) Computer’s name. Press: Find Now.  EX: I am finding a computer.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/UP1LiIQ.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The User’s  (OR)  Computer’s name in the Search results box.  EX: I am finding a computer.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/6NCJsTf.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Disable Account.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ngaC9yY.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/lNGYy9N.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lGXoOL2.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>To enable the account: Click: Enable Account.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/xYHN7yw.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/OlDWO2u.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/ClyBa4T.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Yes.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/PzTM8ZN.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/iq8CB62.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/rDEEnma.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: To check if a user account is enabled / disabled now: Open: Command Prompt: Windows Search: cmd. Click: Command Prompt.  Type the command: net user (username) /domain. NOTE: Because this user is on a domain and this account was created using Active Directory Users and Computers you need to add at the end of the command: /domain. Look: Account active (towards the top), if it says: yes – the account is active, if it says no – the account is disabled.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/MSuJxIT.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/aWgFqlG.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/H9HMQJi.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/ULwCQ8d.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
