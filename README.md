@@ -168,7 +168,7 @@ This project goes over how to disable or enable a computer or user account using
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: To check if a user account is enabled / disabled now: Open: Command Prompt: Windows Search: cmd. Click: Command Prompt.  Type the command: net user (username) /domain. NOTE: Because this user is on a domain and this account was created using Active Directory Users and Computers you need to add at the end of the command: /domain. Look: Account active (towards the top), if it says: yes – the account is active, if it says no – the account is disabled.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: To check if a User Account is enabled / disabled now: Open: Command Prompt: Windows Search: cmd. Click: Command Prompt.  Type the command: net user (username) /domain. NOTE: Because this user is on a domain and this account was created using Active Directory Users and Computers you need to add at the end of the command: /domain. Look: Account active (towards the top), if it says: yes – the account is active, if it says no – the account is disabled.</b></span>  
 <br/>
 
 <table>
